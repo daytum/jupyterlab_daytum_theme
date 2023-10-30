@@ -18,7 +18,7 @@ const plugin: JupyterFrontEndPlugin<void> = {
     const style = 'jupyterlab_daytum_theme/index.css';
 
     manager.register({
-      name: 'jupyterlab_daytum_theme',
+      name: 'Daytum Theme Light',
       isLight: true,
       load: () => manager.loadCSS(style),
       unload: () => Promise.resolve(undefined)
