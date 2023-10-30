@@ -1,0 +1,19 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: v4.2.3
+_src_path: https://github.com/jupyterlab/extension-template
+author_email: john@daytum.io
+author_name: John T. Foster
+data_format: string
+file_extension: ''
+has_binder: false
+has_settings: false
+kind: theme
+labextension_name: jupyterlab_daytum_theme
+mimetype: ''
+mimetype_name: ''
+project_short_description: A JupyterLab extension that implements the Daytum LMS theme.
+python_name: jupyterlab_daytum_theme
+repository: git@github.com/daytum/jupyterlab_daytum_theme
+test: false
+viewer_name: ''
+
