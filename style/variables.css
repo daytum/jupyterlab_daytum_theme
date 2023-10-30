@@ -214,7 +214,7 @@ all of MD as it is not optimized for dense, information rich UIs.
   /* Brand/accent */
 
   --jp-brand-color0: #ec0c4b;
-  --jp-brand-color1: #ed225d;
+  --jp-brand-color1: #0b6623;
   --jp-brand-color2: #ee376b;
   --jp-brand-color3: #ee3b6e;
   --jp-accent-color0: var(--md-green-700);
